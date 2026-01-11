@@ -9,6 +9,7 @@ export default function Navbar() {
     { path: '/', label: 'Home' },
     { path: '/about', label: 'About' },
     { path: '/services', label: 'Services' },
+    { path: '/forecast', label: 'Forecast' },
     { path: '/contact', label: 'Contact' },
   ]
 
